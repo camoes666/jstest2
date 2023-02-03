@@ -5,3 +5,4 @@ canvas.width = window.innerWidth - 100;
 canvas.height = window.innerHeight - 100;
 ctx.fillStyle = 'green';
 ctx.fillRect(10, 200, 50, 50);
+console.log("CCCC");
